@@ -1,0 +1,362 @@
+@prefix data: <http://example.com/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+data:1 rdf:type data:aplikasi;
+    data:id "314101001";
+    data:title "Microsoft Office 365";
+    data:kategori "Windows";
+    data:harga "199000";
+    data:urlFoto "https://rajalisensi.com/wp-content/uploads/2019/04/0.-Office-365-Box-1.png";
+    data:urlweb "https://rajalisensi.com/ms-office-365/";
+    .
+
+data:2 rdf:type data:aplikasi;
+    data:id "314101002";
+    data:title "Windows 10";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/W10Mei.png";
+    data:urlweb "https://www.bagas31.info/2021/05/windows-10-pro-20h2-build-19042-964.html";
+    .
+
+data:3 rdf:type data:aplikasi;
+    data:id "314101003";
+    data:title "Microsoft Office 2019";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/Office2106.png";
+    data:urlweb "https://www.bagas31.info/2021/05/microsoft-office-2019-pro-plus-v2104-build-13929-20386.html";
+    .
+
+data:4 rdf:type data:aplikasi;
+    data:id "314101004";
+    data:title "ActivePresenter Professional ";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/04/IKON-29.png";
+    data:urlweb "https://www.bagas31.info/2021/05/activepresenter-professional-8-4-0-full-version.html";
+    .
+
+data:5 rdf:type data:aplikasi;
+    data:id "314101005";
+    data:title "Adobe Photoshop 2020 ";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/PS21Mei.png";
+    data:urlweb "https://www.bagas31.info/2021/05/adobe-photoshop-2021-v22-4-1-211-full-version.html"; 
+    .
+
+data:6 rdf:type data:aplikasi;
+    data:id "314101006";
+    data:title "Freemake Video Converter  ";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/Freemake-Video-Converter.jpg";
+    data:urlweb "https://www.bagas31.info/2021/05/freemake-video-converter-4-1-12-98-full-version.html"; 
+    .
+
+data:7 rdf:type data:aplikasi;
+    data:id "314101007";
+    data:title "Aiseesoft Video Converter Ultimate ";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/IKON-9.png";
+    data:urlweb "https://www.bagas31.info/2021/05/aiseesoft-video-converter-ultimate-10-2-12-full-version.html";
+    .
+
+data:8 rdf:type data:aplikasi;
+    data:id "314101008";
+    data:title "Adobe Premiere Pro 2021 ";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/Pr2021Mei.png";
+    data:urlweb "https://www.bagas31.info/2021/05/adobe-premiere-pro-2021-v15-2-0-35.html";
+    .
+
+data:9 rdf:type data:aplikasi;
+    data:id "314101009";
+    data:title "Allavsoft Video Downloader Converter ";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/IKON-12.png";
+    data:urlweb "https://www.bagas31.info/2021/05/allavsoft-video-downloader-converter-3-23-5-7794-full-version.html";
+    .
+
+data:10 rdf:type data:aplikasi;
+    data:id "314101010";
+    data:title "Xara Designer Pro Plus 21 ";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/Xara-Designer-Pro-Plus-21.jpg";
+    data:urlweb "https://www.bagas31.info/2021/05/allavsoft-video-downloader-converter-3-23-5-7794-full-version.html";   
+    .
+
+data:11 rdf:type data:aplikasi;
+    data:id "314101011";
+    data:title "IObit Driver Booster Pro ";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/ikon-2.png";
+    data:urlweb "https://www.bagas31.info/2021/05/iobit-driver-booster-pro-8-4-0-432-full-version.html";
+    .
+
+data:12 rdf:type data:aplikasi;
+    data:id "314101012";
+    data:title "DisplayFusion Pro 9.8";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/DisplayFusion-Pro.jpg";
+    data:urlweb "https://www.bagas31.info/2021/05/displayfusion-pro-9-8-full-version.html";
+    .
+
+data:13 rdf:type data:aplikasi;
+    data:id "314101013";
+    data:title "ScreenHunter Pro  ";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/IKON-5.png";
+    data:urlweb "https://www.bagas31.info/2021/05/screenhunter-pro-7-0-1195-full-version.html";
+    .
+
+data:14 rdf:type data:aplikasi;
+    data:id "314101014";
+    data:title "MAGIX VEGAS Pro  ";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/MAGIX-VEGAS-Pro.jpg";
+    data:urlweb "https://www.bagas31.info/2021/05/magix-vegas-pro-18-0-0-527-full-version.html";
+    .
+
+data:15 rdf:type data:aplikasi;
+    data:id "314101015";
+    data:title "Internet Download Manager 6.38 Build 25  ";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/IDM638B25.png";
+    data:urlweb "https://www.bagas31.info/2021/05/internet-download-manager-6-38-build-25-full-version.html";
+    .
+
+data:16 rdf:type data:aplikasi;
+    data:id "314101016";
+    data:title "Wondershare UniConverter  ";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/IKON-11.png";
+    data:urlweb "https://www.bagas31.info/2021/05/wondershare-uniconverter-12-5-6-12-full-version.html";
+    .
+
+data:17 rdf:type data:aplikasi;
+    data:id "314101017";
+    data:title "ApowerEdit  ";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/ApowerEdit-1.7.1.16.jpg";
+    data:urlweb "https://www.bagas31.info/2021/05/apoweredit-1-7-1-16-full-version.html";
+    .
+
+data:18 rdf:type data:aplikasi;
+    data:id "314101018";
+    data:title "EximiousSoft Logo Designer  ";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/IKON-10.png";
+    data:urlweb "https://www.bagas31.info/2021/05/eximioussoft-logo-designer-3-86-full-version.html";
+    .
+
+data:19 rdf:type data:aplikasi;
+    data:id "314101019";
+    data:title "Mirillis Action  ";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/Ikon-4.png";
+    data:urlweb "https://www.bagas31.info/wp-content/uploads/2021/05/Ikon-4.png";
+    .
+
+data:20 rdf:type data:aplikasi;
+    data:id "314101020";
+    data:title "Foxit PhantomPDF Business  ";
+    data:kategori "Windows";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/Foxit-PhantomPDF-Business.jpg";
+    data:urlweb "https://www.bagas31.info/2021/05/foxit-phantompdf-business-10-1-4-37651-full-version.html";
+    .
+
+data:21 rdf:type data:aplikasi;
+    data:id "314102001";
+    data:title "Need for Speed SHIFT 2 Unleashed   ";
+    data:kategori "Games";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/Shift2Unleashed.jpg";
+    data:urlweb "https://www.bagas31.info/2021/05/need-for-speed-shift-2-unleashed.html";
+    .
+
+data:22 rdf:type data:aplikasi;
+    data:id "314102002";
+    data:title "Farm Manager 2021    ";
+    data:kategori "Games";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/FM21.jpg";
+    data:urlweb "https://www.bagas31.info/2021/05/farm-manager-2021-full-version.html";
+    .
+
+data:23 rdf:type data:aplikasi;
+    data:id "314102003";
+    data:title "Doraemon Story of Seasons   ";
+    data:kategori "Games";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2019/10/Doraemon.png";
+    data:urlweb "https://www.bagas31.info/2021/05/doraemon-story-of-seasons-full-version.html";
+    .
+
+data:24 rdf:type data:aplikasi;
+    data:id "314102004";
+    data:title "Arcana Heart 3 LOVE MAX SIXSTARS!!!!!! XTEND Repack   ";
+    data:kategori "Games";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/Arcana3.jpg";
+    data:urlweb "https://www.bagas31.info/2021/05/arcana-heart-3-love-max-sixstars-xtend-repack.html";
+    .
+
+data:25 rdf:type data:aplikasi;
+    data:id "314102005";
+    data:title "Empire of Sin  ";
+    data:kategori "Games";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/04/EmpireofSin.png";
+    data:urlweb "https://www.bagas31.info/2021/04/empire-of-sin-full-version.html";
+    .
+
+data:26 rdf:type data:aplikasi;
+    data:id "314102006";
+    data:title "Euro Truck Simulator 2 Iberia  ";
+    data:kategori "Games";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/04/ETS2Iberia.png";
+    data:urlweb "https://www.bagas31.info/2021/04/euro-truck-simulator-2-iberia-full-version.html";
+    .
+
+data:27 rdf:type data:aplikasi;
+    data:id "314102007";
+    data:title "Hunting Simulator 2 A Rangers Life  ";
+    data:kategori "Games";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/04/HS2.png";
+    data:urlweb "https://www.bagas31.info/wp-content/uploads/2021/04/HS2.png";
+    .
+
+data:28 rdf:type data:aplikasi;
+    data:id "314102008";
+    data:title "Crysis 3 Digital Deluxe   ";
+    data:kategori "Games";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/04/Crysis3.png";
+    data:urlweb "https://www.bagas31.info/2021/04/crysis-3-digital-deluxe-edition-repack.html";
+    .
+
+data:29 rdf:type data:aplikasi;
+    data:id "314102009";
+    data:title "Drake Hollow   ";
+    data:kategori "Games";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/04/DrakeHollow.jpg";
+    data:urlweb "https://www.bagas31.info/2021/04/drake-hollow-full-version.html";
+    .
+
+data:30 rdf:type data:aplikasi;
+    data:id "314102010";
+    data:title "Crash Bandicoot 4 Its About Time  ";
+    data:kategori "Games";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/04/CB4.png";
+    data:urlweb "https://www.bagas31.info/2021/04/crash-bandicoot-4-its-about-time.html";
+    .
+
+data:31 rdf:type data:aplikasi;
+    data:id "314103001";
+    data:title "Spotify Premium";
+    data:kategori "Android";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2019/07/Spotify-Apk-Premium-v8.5.14.752.png";
+    data:urlweb "https://www.bagas31.info/2021/04/spotify-apk-premium-v8-6-12-986.html";
+    .
+
+data:32 rdf:type data:aplikasi;
+    data:id "314103002";
+    data:title "PicsArt Photo Studio Premium";
+    data:kategori "Android";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2020/08/picart.png";
+    data:urlweb "https://www.bagas31.info/2021/03/picsart-photo-studio-premium-v16-8-mod-gold-apk.html";
+    .
+
+data:33 rdf:type data:aplikasi;
+    data:id "314103003";
+    data:title "ExpressVPN Mod Unlimited";
+    data:kategori "Android";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2020/12/expressvpn-logo.jpg";
+    data:urlweb "https://www.bagas31.info/2020/12/expressvpn-mod-unlimited-trial-v9-3-0.html";
+    .
+
+data:34 rdf:type data:aplikasi;
+    data:id "314103004";
+    data:title "JOOX VIP Mod v5.7.6 Apk";
+    data:kategori "Android";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2019/07/JOOX-VIP-Mod-v5.3.2-Apk.png";
+    data:urlweb "https://www.bagas31.info/2020/12/joox-vip-mod-v5-7-6-apk.html";
+    .
+
+data:35 rdf:type data:aplikasi;
+    data:id "314103005";
+    data:title "Turbo VPN Pro APK";
+    data:kategori "Android";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2019/11/turbo-1.png";
+    data:urlweb "https://www.bagas31.info/2020/12/turbo-vpn-pro-apk-3-4-4.html";
+    .
+
+data:36 rdf:type data:aplikasi;
+    data:id "314103006";
+    data:title "VSCO Full Pack 192 APK";
+    data:kategori "Android";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2020/08/VSCO-Full-Pack-179-APK.jpg";
+    data:urlweb "https://www.bagas31.info/2020/12/vsco-full-pack-192-apk.html";
+    .
+
+data:37 rdf:type data:aplikasi;
+    data:id "314103007";
+    data:title "KineMaster Mod Premium v4.14.2.16650 Apk";
+    data:kategori "Android";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2019/06/kn.png";
+    data:urlweb "https://www.bagas31.info/2020/09/kinemaster-mod-premium-v4-14-2-16650.html";
+    .
+
+data:38 rdf:type data:aplikasi;
+    data:id "314103008";
+    data:title "MEmu App Player 7.2.5 Full Version";
+    data:kategori "Android";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2020/09/Memu-App-Player-LOGO.png";
+    data:urlweb "https://www.bagas31.info/2020/09/memu-app-player-7-2-5-full-version.html";
+    .
+
+data:39 rdf:type data:aplikasi;
+    data:id "314103009";
+    data:title "Canva Premium Pro Apk v2.73.0";
+    data:kategori "Android";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2020/08/canva-logo.png";
+    data:urlweb "https://www.bagas31.info/2020/08/canva-premium-pro-apk-v2-73-0.html";
+    .
+
+data:40 rdf:type data:aplikasi;
+    data:id "314103010";
+    data:title "FilmoraGo Pro v4.0 Apk";
+    data:kategori "Android";
+    data:harga "0";
+    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2020/08/FilmoraGo-logo.jpg";
+    data:urlweb "https://www.bagas31.info/2020/08/filmorago-pro-v4-0-apk.html";
+    .
