@@ -3,408 +3,397 @@
 
 data:1 rdf:type data:aplikasi;
     data:id "314101001";
-    data:title "Microsoft Office 365";
-    data:kategori"Windows";
-    data:harga "199000";
-    data:urlweb "https://rajalisensi.com/ms-office-365/";
+    data:title "Microsoft Office 365 Home and Student";
+    data:harga "Rp 1.900.000";
+    data:urlweb "https://www.microsoft.com/id-id/microsoft-365/buy/compare-all-microsoft-365-products";
     data:urlFoto "https://rajalisensi.com/wp-content/uploads/2019/04/0.-Office-365-Box-1.png";
     .
 
 data:2 rdf:type data:aplikasi;
     data:id "314101002";
     data:title "Windows 10";
-    data:kategori"Windows";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/windows-10-pro-20h2-build-19042-964.html";
+    data:harga "Rp 2.000.000";
+    data:urlweb "https://www.microsoft.com/en-us/software-download/windows10";
     data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/W10Mei.png";
     .
 
 data:3 rdf:type data:aplikasi;
     data:id "314101003";
-    data:title "Microsoft Office 2019";
-    data:kategori"Windows";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/microsoft-office-2019-pro-plus-v2104-build-13929-20386.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/Office2106.png";
+    data:title "WPS Office";
+    data:harga "Rp 0";
+    data:urlweb "https://www.wps.com/id-ID/download/";
+    data:urlFoto "https://d19a1mtic3m6gl.cloudfront.net/website/_nuxt/wins19.915cbf2.png";
     .
 
 data:4 rdf:type data:aplikasi;
     data:id "314101004";
-    data:title "ActivePresenter Professional";
-    data:kategori"Windows";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/activepresenter-professional-8-4-0-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/04/IKON-29.png";
+    data:title "Linux";
+    data:harga "Rp 0";
+    data:urlweb "https://www.linux.org/pages/download/";
+    data:urlFoto "https://library.kissclipart.com/20190224/qe/kissclipart-linux-logo-gif-clipart-suse-linux-distributions-tu-1c102d6d931672b4.png";
     .
 
 data:5 rdf:type data:aplikasi;
     data:id "314101005";
-    data:title "Adobe Photoshop 2020";
-    data:kategori"Windows";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/adobe-photoshop-2021-v22-4-1-211-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/PS21Mei.png";
+    data:title "Adobe Photoshop";
+    data:harga "$20.99/bulan";
+    data:urlweb "https://www.adobe.com/creativecloud/plans.html?plan=individual&filter=all";
+    data:urlFoto "https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg";
     .
 
 data:6 rdf:type data:aplikasi;
     data:id "314101006";
-    data:title "Freemake Video Converter";
-    data:kategori"Windows";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/adobe-photoshop-2021-v22-4-1-211-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/PS21Mei.png";
+    data:title "CorelDRAW";
+    data:harga "$419";
+    data:urlweb "https://www.coreldraw.com/en/product/coreldraw/standard/?topNav=en";
+    data:urlFoto "https://www.pinclipart.com/picdir/middle/201-2018249_logo-coreldraw-corel-draw-logo-png-clipart.png";
     .
 
 data:7 rdf:type data:aplikasi;
     data:id "314101007";
-    data:title "Aiseesoft Video Converter Ultimate";
-    data:kategori"Windows";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/aiseesoft-video-converter-ultimate-10-2-12-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/IKON-9.png";
+    data:title "Wondershare FilmoraPro";
+    data:harga "Rp 0";
+    data:urlweb "https://www.iskysoft.us/purchase/buy-filmorapro-video-editor.html";
+    data:urlFoto "https://images.iskysoft.com/assets/images2020/function/store-icon1.png";
     .
 
 data:8 rdf:type data:aplikasi;
     data:id "314101008";
-    data:title "Adobe Premiere Pro 2021";
-    data:kategori"Windows";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/adobe-premiere-pro-2021-v15-2-0-35.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/Pr2021Mei.png";
+    data:title "Adobe Premiere Pro";
+    data:harga "Rp 0";
+    data:urlweb "https://www.adobe.com/creativecloud/plans.html?plan=individual&filter=all";
+    data:urlFoto "https://www.adobe.com/content/dam/shared/images/product-icons/svg/premiere.svg";
     .
 
 data:9 rdf:type data:aplikasi;
     data:id "314101009";
-    data:title "Allavsoft Video Downloader Converter";
-    data:kategori"Windows";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/allavsoft-video-downloader-converter-3-23-5-7794-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/IKON-12.png";
+    data:title "Wondershare PDFelement Pro";
+    data:harga "Rp 0";
+    data:urlweb "https://pdf.iskysoft.us/pdfelement-pro-mac.html?_ga=2.65861867.455969717.1622954958-1938380937.1622954958&_gac=1.82826980.1622955146.Cj0KCQjwweyFBhDvARIsAA67M71tJ6yV26XMldJBC4AwRC0ZAEJeks7Ln_81wC_qvC_UvG-B36YnvPQaAnQTEALw_wcB";
+    data:urlFoto "https://images.iskysoft.com/assets/images2020/function/PE_40x40.png";
     .
 
 data:10 rdf:type data:aplikasi;
     data:id "314101010";
-    data:title "Xara Designer Pro Plus 21";
-    data:kategori"Windows";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/allavsoft-video-downloader-converter-3-23-5-7794-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/Xara-Designer-Pro-Plus-21.jpg";
+    data:title "Wondershare PDFelement";
+    data:harga "Rp 0";
+    data:urlweb "https://pdf.iskysoft.us/";
+    data:urlFoto "https://images.iskysoft.com/assets/images2020/function/PE_40x40.png";
     .
 
 data:11 rdf:type data:aplikasi;
     data:id "314101011";
-    data:title "Xara Designer Pro Plus 21";
+    data:title "Adobe Acrobat";
     data:kategori"Windows";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/iobit-driver-booster-pro-8-4-0-432-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/ikon-2.png";
+    data:harga "Rp 0";
+    data:urlweb "https://get.adobe.com/reader/";
+    data:urlFoto "https://cdn.freelogovectors.net/wp-content/uploads/2020/07/adobe-acrobat-logo.png";
     .
 
 data:12 rdf:type data:aplikasi;
     data:id "314101011";
-    data:title "IObit Driver Booster Pro";
-    data:kategori"Windows";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/displayfusion-pro-9-8-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/DisplayFusion-Pro.jpg";
+    data:title "Nitro PDF Pro";
+    data:harga "$179.99";
+    data:urlweb "https://www.gonitro.com/individual";
+    data:urlFoto "https://iconape.com/wp-content/files/wy/132056/svg/132056.svg";
     .
 
 data:13 rdf:type data:aplikasi;
     data:id "314101013";
-    data:title "ScreenHunter Pro";
-    data:kategori"Windows";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/screenhunter-pro-7-0-1195-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/IKON-5.png";
+    data:title "BitDefender";
+    data:harga "Rp 510.000";
+    data:urlweb "https://www.bitdefender.com/media/html/consumer/new/2020/cl-offer-opt/?pid=avspecial&cid=aff|c|ir";
+    data:urlFoto "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122012/bitdefenderlogo_0.png?itok=bLhK8x1c";
     .
 data:14 rdf:type data:aplikasi;
     data:id "314101014";
-    data:title "MAGIX VEGAS Pro";
-    data:kategori"Windows";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/magix-vegas-pro-18-0-0-527-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/MAGIX-VEGAS-Pro.jpg";
+    data:title "VEGAS Pro";
+    data:harga "$299";
+    data:urlweb "https://www.vegascreativesoftware.com/us/sem/vegas-pro/";
+    data:urlFoto "https://shop.magix.com/content/magix/packshots/vegas/pro/icon/int/vegas-pro-icon-int-400.png";
     .
 
 data:15 rdf:type data:aplikasi;
     data:id "314101015";
-    data:title "Internet Download Manager";
-    data:kategori"Windows";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/internet-download-manager-6-38-build-25-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/IDM638B25.png";
+    data:title "Norton Anti Virus";
+    data:harga "$19.99/tahun";
+    data:urlweb "https://us.norton.com/products";
+    data:urlFoto "https://now.symassets.com/content/dam/norton/global/images/non-product/logos/norton_logo.png";
     .
 
 data:16 rdf:type data:aplikasi;
     data:id "314101016";
-    data:title "Wondershare UniConverter";
-    data:kategori"Windows";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/wondershare-uniconverter-12-5-6-12-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/IKON-11.png";
+    data:title "MC Afee";
+    data:harga "$44.99";
+    data:urlweb "https://www.mcafee.com/en-us/antivirus.html";
+    data:urlFoto "https://radionshop.com/wp-content/uploads/2017/12/logo-stacked.png";
     .
 
 data:17 rdf:type data:aplikasi;
-    data:id "314101017";
-    data:title "ApowerEdit";
-    data:kategori"Windows";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/apoweredit-1-7-1-16-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/ApowerEdit-1.7.1.16.jpg";
+    data:id "314103010";
+    data:title "Filmora Video Editor";
+    data:harga "Rp 0,-";
+    data:urlweb "https://www.iskysoft.us/filmora-video-editor.html?gclid=Cj0KCQjwweyFBhDvARIsAA67M71tJ6yV26XMldJBC4AwRC0ZAEJeks7Ln_81wC_qvC_UvG-B36YnvPQaAnQTEALw_wcB";
+    data:urlFoto "https://images.iskysoft.com/assets/images2020/function/store-icon3.png";
     .
 
 data:18 rdf:type data:aplikasi;
     data:id "314101018";
-    data:title "EximiousSoft Logo Designer";
-    data:kategori"Windows";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/eximioussoft-logo-designer-3-86-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/IKON-10.png";
+    data:title "Zoom Meeting";
+    data:harga "Rp 0";
+    data:urlweb "https://zoom.us/";
+    data:urlFoto "https://cdn.freelogovectors.net/wp-content/uploads/2020/10/zoom-icon-logo.png";
     .
 
 data:19 rdf:type data:aplikasi;
     data:id "314101019";
-    data:title "Mirillis Action";
-    data:kategori"Windows";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2020/03/mirillis-action-4-3-0.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/Ikon-4.png";
+    data:title "Discord";
+    data:harga "Rp 0";
+    data:urlweb "https://discord.com/brand-new";
+    data:urlFoto "https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png";
     .
 
 data:20 rdf:type data:aplikasi;
     data:id "314101020";
-    data:title "Foxit PhantomPDF Business";
-    data:kategori"Windows";
+    data:title "Skype";
     data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/foxit-phantompdf-business-10-1-4-37651-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/Foxit-PhantomPDF-Business.jpg";
+    data:urlweb "https://www.skype.com/id/";
+    data:urlFoto "https://logodownload.org/wp-content/uploads/2017/05/skype-logo-1.png";
     .
 
 data:21 rdf:type data:aplikasi;
     data:id "314102001";
-    data:title "Need for Speed SHIFT 2 Unleashed";
-    data:kategori"Games";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/need-for-speed-shift-2-unleashed.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/Shift2Unleashed.jpg";
+    data:title "Need for Speed";
+    data:harga "Rp 105.000";
+    data:urlweb "https://store.steampowered.com/app/1262540/Need_for_Speed/";
+    data:urlFoto "https://cdna.artstation.com/p/assets/images/images/013/639/302/large/mighoet-sundback-payback-logo-2.jpg?1540517194";
     .
 
 data:22 rdf:type data:aplikasi;
     data:id "314102002";
-    data:title "Farm Manager 2021";
-    data:kategori"Games";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/farm-manager-2021-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/FM21.jpg";
+    data:title "Need for Speed Most Wanted";
+    data:harga "Rp 98.000";
+    data:urlweb "https://store.steampowered.com/app/1262560/Need_for_Speed_Most_Wanted/";
+    data:urlFoto "https://toppng.com/uploads/preview/clearlogo-clearlogo-ribbon-nfs-most-wanted-logo-115630250429amiezu4et.png";
     .
 
 data:23 rdf:type data:aplikasi;
     data:id "314102003";
-    data:title "Doraemon Story of Seasons";
-    data:kategori"Games";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/doraemon-story-of-seasons-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2019/10/Doraemon.png";
+    data:title "Forza Horizon 4 ";
+    data:harga "Rp 250.000";
+    data:urlweb "https://store.steampowered.com/app/1293830/Forza_Horizon_4/";
+    data:urlFoto "https://cdn-1.motorsport.com/images/amp/YKEx5W10/s6/forza-horizon-4-1.jpg";
     .
 
 data:24 rdf:type data:aplikasi;
     data:id "314102004";
-    data:title "Arcana Heart 3 ";
-    data:kategori"Games";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/05/arcana-heart-3-love-max-sixstars-xtend-repack.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/05/Arcana3.jpg";
+    data:title "Euro Truck Simulator 2";
+    data:harga "Rp 170.000";
+    data:urlweb "https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/";
+    data:urlFoto "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnoK5GDnVEOkmHrDheQHxw1HRmOTH-V_vP4kfKNJxs7o3rsZmTl1kBXfCfwv80Scd5Do&usqp=CAU";
     .
 
 data:25 rdf:type data:aplikasi;
     data:id "314102005";
-    data:title "Empire of Sin";
-    data:kategori"Games";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/04/empire-of-sin-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/04/EmpireofSin.png";
+    data:title "Microsoft Flight Simulator";
+    data:harga "Rp 800.000";
+    data:urlweb "https://store.steampowered.com/app/1250410/Microsoft_Flight_Simulator/";
+    data:urlFoto "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4RZOviBuVI2loiZ4wVRLDxmkb6lDMUqYXld8MqQApy4tYJJbSvm1pOFyz3JXfzAiXJ8w&usqp=CAU";
     .
 
 data:26 rdf:type data:aplikasi;
     data:id "314102006";
-    data:title "Euro Truck Simulator 2 Iberia";
-    data:kategori"Games";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/04/euro-truck-simulator-2-iberia-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/04/ETS2Iberia.png";
+    data:title "The Sims 4";
+    data:harga "Rp 562.000";
+    data:urlweb "https://store.steampowered.com/app/1222670/The_Sims_4/";
+    data:urlFoto "https://cpng.pikpng.com/pngl/s/240-2406026_sims-4-logo-render-clipart.png";
     .
 
 data:27 rdf:type data:aplikasi;
     data:id "314102007";
-    data:title "Hunting Simulator 2 A Rangers Life";
-    data:kategori"Games";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/04/hunting-simulator-2-a-rangers-life.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/04/HS2.png";
+    data:title "Harvest Moon Light of Hope Special Edition";
+    data:harga "Rp 108.999";
+    data:urlweb "https://store.steampowered.com/app/585900/Harvest_Moon_Light_of_Hope_Special_Edition/";
+    data:urlFoto "https://freepikpsd.com/media/2019/10/harvest-moon-logo-png-5-Transparent-Images.png";
     .
 
 data:28 rdf:type data:aplikasi;
     data:id "314102008";
-    data:title "Crysis 3 Digital Deluxe";
-    data:kategori"Games";
-    data:harga "0,";
-    data:urlweb "https://www.bagas31.info/2021/04/crysis-3-digital-deluxe-edition-repack.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/04/Crysis3.png";
+    data:title "CS GO";
+    data:harga "Rp 477.000,";
+    data:urlweb "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/";
+    data:urlFoto "https://e7.pngegg.com/pngimages/618/889/png-clipart-counter-strike-global-offensive-logo-stencil-art-font-cs-go-cloud-9-angle-logo-thumbnail.png";
     .
 
 data:29 rdf:type data:aplikasi;
     data:id "314102009";
-    data:title "Drake Hollow";
-    data:kategori"Games";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/04/drake-hollow-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/04/DrakeHollow.jpg";
+    data:title "Valorant";
+    data:harga "Rp 0";
+    data:urlweb "https://playvalorant.com/en-us/";
+    data:urlFoto "https://ih1.redbubble.net/image.1182490230.8555/flat,750x,075,f-pad,750x1000,f8f8f8.jpg";
     .
 
 data:30 rdf:type data:aplikasi;
     data:id "314102010";
-    data:title "Crash Bandicoot 4 Its About Time";
-    data:kategori"Games";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/04/crash-bandicoot-4-its-about-time.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2021/04/CB4.png";
+    data:title "Point Blank";
+    data:harga "Rp 0";
+    data:urlweb "https://www.pointblank.id/";
+    data:urlFoto "https://bisablog.com/wp-content/uploads/2020/04/cara-buat-akun-pb-point-blank-zepetto.png";
     .
 
 data:31 rdf:type data:aplikasi;
     data:id "314103001";
-    data:title "Spotify Premium";
-    data:kategori"Android";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/04/spotify-apk-premium-v8-6-12-986.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2019/07/Spotify-Apk-Premium-v8.5.14.752.png";
+    data:title "Spotify";
+    data:harga "Rp 0";
+    data:urlweb "https://www.spotify.com/id/download/windows/";
+    data:urlFoto "https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png";
     .
 
 data:32 rdf:type data:aplikasi;
     data:id "314103002";
-    data:title "PicsArt Photo Studio Premium";
-    data:kategori"Android";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2021/03/picsart-photo-studio-premium-v16-8-mod-gold-apk.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2020/08/picart.png";
+    data:title "VLC Media Player";
+    data:harga "Rp 0";
+    data:urlweb "https://www.videolan.org/vlc/download-windows.html";
+    data:urlFoto "http://assets.stickpng.com/images/5b43bc40e99939b4572e32b7.png";
     .
 
 data:33 rdf:type data:aplikasi;
     data:id "314103003";
-    data:title "ExpressVPN Mod Unlimited";
-    data:kategori"Android";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2020/12/expressvpn-mod-unlimited-trial-v9-3-0.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2020/12/expressvpn-logo.jpg";
+    data:title "GOM";
+    data:harga "Rp 0";
+    data:urlweb "https://www.gomlab.com/download/";
+    data:urlFoto "https://e1.pngegg.com/pngimages/811/712/png-clipart-gom-player-gom-icon-thumbnail.png";
     .
 
 data:34 rdf:type data:aplikasi;
     data:id "314103004";
-    data:title "JOOX VIP Mod v5.7.6 Apk";
-    data:kategori"Android";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2020/12/joox-vip-mod-v5-7-6-apk.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2019/07/JOOX-VIP-Mod-v5.3.2-Apk.png";
+    data:title "JOOX";
+    data:harga "Rp 0";
+    data:urlweb "https://www.joox.com/id/download";
+    data:urlFoto "https://i.pinimg.com/originals/d1/51/96/d15196cd0bbd31cefa7b2a7ab8e8c1c3.png";
     .
 
 data:35 rdf:type data:aplikasi;
     data:id "314103005";
-    data:title "VSCO Full Pack 192 APK";
-    data:kategori"Android";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2020/12/vsco-full-pack-192-apk.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2020/08/VSCO-Full-Pack-179-APK.jpg";
+    data:title "KM Player";
+    data:harga "Rp 0";
+    data:urlweb "https://www.kmplayer.com/home#layer-64X";
+    data:urlFoto "https://4.bp.blogspot.com/-9OMOILix3KA/WL1Xu7k0kLI/AAAAAAAAEHI/gHu3LJEgO90dQjzMYNlhPAAgSq_B4LlmgCLcB/s200/KMPlayer.png";
     .
 
 data:36 rdf:type data:aplikasi;
     data:id "314103006";
-    data:title "Turbo VPN Pro APK";
-    data:kategori"Android";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2020/12/turbo-vpn-pro-apk-3-4-4.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2019/11/turbo-1.png";
+    data:title "Notepad ++";
+    data:harga "Rp 0";
+    data:urlweb "https://notepad-plus-plus.org/downloads/";
+    data:urlFoto "https://pbs.twimg.com/media/EGwO6UoWwAARoX5.png";
     .
 
 data:37 rdf:type data:aplikasi;
     data:id "314103007";
-    data:title "KineMaster Mod Premium ";
-    data:kategori"Android";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2020/09/kinemaster-mod-premium-v4-14-2-16650.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2019/06/kn.png";
+    data:title "VS Code";
+    data:harga "Rp 0";
+    data:urlweb "https://code.visualstudio.com/download";
+    data:urlFoto "https://toppng.com/uploads/preview/vscode-visual-studio-code-11562929010rwlaaoeohl.png";
     .
 
 data:38 rdf:type data:aplikasi;
     data:id "314103008";
-    data:title "MEmu App Player 7.2.5 Full Version";
-    data:kategori"Android";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2020/09/memu-app-player-7-2-5-full-version.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2020/09/Memu-App-Player-LOGO.png";
+    data:title "Sublime";
+    data:harga "Rp 0";
+    data:urlweb "https://www.sublimetext.com/";
+    data:urlFoto "https://www.pngitem.com/pimgs/m/422-4223360_transparent-sublime-text-icon-hd-png-download.png";
     .
 
 data:39 rdf:type data:aplikasi;
     data:id "314103009";
-    data:title "Canva Premium Pro Apk v2.73.0";
-    data:kategori"Android";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2020/08/canva-premium-pro-apk-v2-73-0.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2020/08/canva-logo.png";
+    data:title "WinRAR";
+    data:harga "Rp 0";
+    data:urlweb "https://www.win-rar.com/start.html?&L=0";
+    data:urlFoto "https://cdn.freelogovectors.net/wp-content/uploads/2019/02/winrar_logo.png";
     .
 
 data:40 rdf:type data:aplikasi;
     data:id "314103010";
-    data:title "FilmoraGo Pro v4.0 Apk";
-    data:kategori"Android";
-    data:harga "0";
-    data:urlweb "https://www.bagas31.info/2020/08/filmorago-pro-v4-0-apk.html";
-    data:urlFoto "https://www.bagas31.info/wp-content/uploads/2020/08/FilmoraGo-logo.jpg";
+    data:title "7 Zip";
+    data:harga "Rp 0";
+    data:urlweb "https://www.7-zip.org/";
+    data:urlFoto "https://kuyhaa-me.pw/wp-content/uploads/2019/09/Kuyhaa-7-Zip-18.06-Terbaru-Gratis-For-Mac-and-Windows.png";
     .
 
 
 data:platform1 rdf:type data:platform;
-data:platformName "Windows" .
+data:platformName "OS" .
 data:platform2 rdf:type data:platform;
 data:platformName "Games" .
 data:platform3 rdf:type data:platform;
-data:platformName "Android" .
+data:platformName "Media Player" .
+data:platform4 rdf:type data:platform;
+data:platformName "Multimedia" .
+data:platform5 rdf:type data:platform;
+data:platformName "Works" .
+data:platform6 rdf:type data:platform;
+data:platformName "Music" .
+data:platform7 rdf:type data:platform;
+data:platformName "Simulator" .
+data:platform8 rdf:type data:platform;
+data:platformName "Race" .
+data:platform9 rdf:type data:platform;
+data:platformName "FPS" .
+data:platform10 rdf:type data:platform;
+data:platformName "Anti Virus" .
+data:platform11 rdf:type data:platform;
+data:platformName "Utilitas" .
+data:platform12 rdf:type data:platform;
+data:platformName "Comunications" .
 
-data:01 data:onPlatform data:platform1 .
+data:01 data:onPlatform data:platform5 .
 data:02 data:onPlatform data:platform1 .
-data:03 data:onPlatform data:platform1 .
+data:03 data:onPlatform data:platform5 .
 data:04 data:onPlatform data:platform1 .
-data:05 data:onPlatform data:platform1 .
-data:06 data:onPlatform data:platform1 .
-data:07 data:onPlatform data:platform1 .
-data:08 data:onPlatform data:platform1 .
-data:09 data:onPlatform data:platform1 .
-data:010 data:onPlatform data:platform1 .
-data:011 data:onPlatform data:platform1 .
-data:012 data:onPlatform data:platform1 .
-data:013 data:onPlatform data:platform1 .
-data:014 data:onPlatform data:platform1 .
-data:015 data:onPlatform data:platform1 .
-data:016 data:onPlatform data:platform1 .
-data:017 data:onPlatform data:platform1 .
-data:018 data:onPlatform data:platform1 .
-data:019 data:onPlatform data:platform1 .
-data:020 data:onPlatform data:platform1 .
+data:05 data:onPlatform data:platform4 .
+data:06 data:onPlatform data:platform4 .
+data:07 data:onPlatform data:platform4 .
+data:08 data:onPlatform data:platform4 .
+data:09 data:onPlatform data:platform5 .
+data:010 data:onPlatform data:platform5 .
+data:011 data:onPlatform data:platform5 .
+data:012 data:onPlatform data:platform5 .
+data:013 data:onPlatform data:platform10 .
+data:014 data:onPlatform data:platform4 .
+data:015 data:onPlatform data:platform10 .
+data:016 data:onPlatform data:platform10 .
+data:017 data:onPlatform data:platform4 .
+data:018 data:onPlatform data:platform12 .
+data:019 data:onPlatform data:platform12 .
+data:020 data:onPlatform data:platform12 .
 data:021 data:onPlatform data:platform2 .
+data:021 data:onPlatform data:platform8 .
 data:022 data:onPlatform data:platform2 .
+data:022 data:onPlatform data:platform8 .
 data:023 data:onPlatform data:platform2 .
+data:023 data:onPlatform data:platform8 .
 data:024 data:onPlatform data:platform2 .
+data:024 data:onPlatform data:platform7 .
 data:025 data:onPlatform data:platform2 .
+data:025 data:onPlatform data:platform7 .
 data:026 data:onPlatform data:platform2 .
+data:026 data:onPlatform data:platform7 .
 data:027 data:onPlatform data:platform2 .
+data:027 data:onPlatform data:platform7 .
 data:028 data:onPlatform data:platform2 .
+data:028 data:onPlatform data:platform9 .
 data:029 data:onPlatform data:platform2 .
+data:029 data:onPlatform data:platform9 .
 data:030 data:onPlatform data:platform2 .
-data:031 data:onPlatform data:platform3 .
+data:030 data:onPlatform data:platform9 .
+data:031 data:onPlatform data:platform6 .
 data:032 data:onPlatform data:platform3 .
 data:033 data:onPlatform data:platform3 .
-data:034 data:onPlatform data:platform3 .
+data:034 data:onPlatform data:platform9 .
 data:035 data:onPlatform data:platform3 .
-data:036 data:onPlatform data:platform3 .
-data:037 data:onPlatform data:platform3 .
-data:038 data:onPlatform data:platform3 .
-data:039 data:onPlatform data:platform3.
-data:040 data:onPlatform data:platform3 .
+data:036 data:onPlatform data:platform11 .
+data:037 data:onPlatform data:platform11 .
+data:038 data:onPlatform data:platform11 .
+data:039 data:onPlatform data:platform11.
+data:040 data:onPlatform data:platform11 .
