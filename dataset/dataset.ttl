@@ -359,3 +359,52 @@ data:40 rdf:type data:aplikasi;
     data:urlweb "https://www.bagas31.info/2020/08/filmorago-pro-v4-0-apk.html";
     data:urlFoto "https://www.bagas31.info/wp-content/uploads/2020/08/FilmoraGo-logo.jpg";
     .
+
+
+data:platform1 rdf:type data:platform;
+data:platformName "Windows" .
+data:platform2 rdf:type data:platform;
+data:platformName "Games" .
+data:platform3 rdf:type data:platform;
+data:platformName "Android" .
+
+data:01 data:onPlatform data:platform1 .
+data:02 data:onPlatform data:platform1 .
+data:03 data:onPlatform data:platform1 .
+data:04 data:onPlatform data:platform1 .
+data:05 data:onPlatform data:platform1 .
+data:06 data:onPlatform data:platform1 .
+data:07 data:onPlatform data:platform1 .
+data:08 data:onPlatform data:platform1 .
+data:09 data:onPlatform data:platform1 .
+data:010 data:onPlatform data:platform1 .
+data:011 data:onPlatform data:platform1 .
+data:012 data:onPlatform data:platform1 .
+data:013 data:onPlatform data:platform1 .
+data:014 data:onPlatform data:platform1 .
+data:015 data:onPlatform data:platform1 .
+data:016 data:onPlatform data:platform1 .
+data:017 data:onPlatform data:platform1 .
+data:018 data:onPlatform data:platform1 .
+data:019 data:onPlatform data:platform1 .
+data:020 data:onPlatform data:platform1 .
+data:021 data:onPlatform data:platform2 .
+data:022 data:onPlatform data:platform2 .
+data:023 data:onPlatform data:platform2 .
+data:024 data:onPlatform data:platform2 .
+data:025 data:onPlatform data:platform2 .
+data:026 data:onPlatform data:platform2 .
+data:027 data:onPlatform data:platform2 .
+data:028 data:onPlatform data:platform2 .
+data:029 data:onPlatform data:platform2 .
+data:030 data:onPlatform data:platform2 .
+data:031 data:onPlatform data:platform3 .
+data:032 data:onPlatform data:platform3 .
+data:033 data:onPlatform data:platform3 .
+data:034 data:onPlatform data:platform3 .
+data:035 data:onPlatform data:platform3 .
+data:036 data:onPlatform data:platform3 .
+data:037 data:onPlatform data:platform3 .
+data:038 data:onPlatform data:platform3 .
+data:039 data:onPlatform data:platform3.
+data:040 data:onPlatform data:platform3 .
