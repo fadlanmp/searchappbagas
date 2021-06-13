@@ -1,8 +1,8 @@
 const connection = require('../connection/searchappConnection');
 const Format = require('../tools/format');
 
-module.exports = { 
-    getApp: async(req, res)=>{
+ 
+    module.exports.getApp = async(req, res)=>{
         try{
             console.log("function starting")
             // Query data dari repo
@@ -34,7 +34,7 @@ module.exports = {
         }
     },
 
-    getPlatform: async (req, res) => {
+    module.exports.getPlatform = async (req, res) => {
         try {
             let platform = await connection.getPlatformApp(req.query);
 
@@ -66,35 +66,23 @@ module.exports = {
         }
     },
 
-    getAppByPlatform: async (req, res) => {
-        try {
-            let apps = await connection.getAppByPlatform(req.params);
-
-            if (!apps.bindings.length) {
+    module.exports.getAppByPlatform = async (req, res) => {
+        try{
+            // Query data dari repo
+            let apps = await connection.getAppByPlatform(req.query);
+            if(!apps.bindings.length){
                 return res.status(200).json({
-                    success: true,
-                    status: 200,
-                    data: [],
-                    message: 'Data aplikasi tidak ditemukan'
-                })
+                    data:[],
+                    message: " Rekomendasi Data tidak ditemukan"
+                });
             }
-
-            apps = apps.bindings.map((apps) => Format(aplikasi));
-
-            return res.status(200).json({
-                success: true,
-                status: 200,
-                data: reviews,
-                message: 'Data semua aplikasi berhasil didapatkan'
-            });
-            
-        } catch (err) {
-            return res.status(200).json({
-                success: false,
-                status: 200,
-                data: '',
-                message: `Error: ${err.message}`
+            apps = apps.bindings.map((aplikasi) => Format(aplikasi));
+            res.status(200).json({
+                data:aplikasi[0],
+                message: aplikasi.length ? 'Data aplikasi berhasil didapatkan' : 'Tidak ada hasil dari pencarian'
             })
+        }catch(err){
+            res.status(400).json(err);
         }
+        
     }
-}

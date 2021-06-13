@@ -12,7 +12,7 @@ router.get('/', (req, res) => {
 
 router.get('/SearchApp',searchappController.getApp)
 router.get('/SearchApp/:id', searchappController.getApp)
-router.get('/platform', getPlatform)
-router.get('/appByPlatform/:platform', getAppByplatform)
+// router.get('/platform', searchappController.getPlatform)
+router.get('/appByPlatform', searchappController.getAppByPlatform)
 
 module.exports = router;
