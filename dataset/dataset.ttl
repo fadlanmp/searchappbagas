@@ -323,29 +323,29 @@ data:40 rdf:type data:aplikasi;
 
 
 data:platform1 rdf:type data:platform;
-data:platformName "OS" .
+    data:platformName "OS" .
 data:platform2 rdf:type data:platform;
-data:platformName "Games" .
+    data:platformName "Games" .
 data:platform3 rdf:type data:platform;
-data:platformName "Media Player" .
+    data:platformName "Media Player" .
 data:platform4 rdf:type data:platform;
-data:platformName "Multimedia" .
+    data:platformName "Multimedia" .
 data:platform5 rdf:type data:platform;
-data:platformName "Works" .
+    data:platformName "Works" .
 data:platform6 rdf:type data:platform;
-data:platformName "Music" .
+    data:platformName "Music" .
 data:platform7 rdf:type data:platform;
-data:platformName "Simulator" .
+    data:platformName "Simulator" .
 data:platform8 rdf:type data:platform;
-data:platformName "Race" .
+    data:platformName "Race" .
 data:platform9 rdf:type data:platform;
-data:platformName "FPS" .
+    data:platformName "FPS" .
 data:platform10 rdf:type data:platform;
-data:platformName "Anti Virus" .
+    data:platformName "Anti Virus" .
 data:platform11 rdf:type data:platform;
-data:platformName "Utilitas" .
+    data:platformName "Utilitas" .
 data:platform12 rdf:type data:platform;
-data:platformName "Comunications" .
+    data:platformName "Comunications" .
 
 data:01 data:onPlatform data:platform5 .
 data:02 data:onPlatform data:platform1 .
