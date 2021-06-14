@@ -88,11 +88,11 @@ exports.getAppByPlatform = async(param) => {
             OPTIONAL {?sub data:onPlatform ?platformID.}
             OPTIONAL {?platformID data:platformName ?platformName.}
             FILTER regex(?platformName, "${param.platformName ? param.platformName : ''}", "i")
-        }ORDER BY RAND() LIMIT 5`
+        }`
     }
 
     try {
-        const { data } = await axios(`${BASE_URL}/searchapp/query`, {
+        const { data } = await axios(`${DATA_URL}/searchapp/query`, {
             method: 'POST',
             headers,
             data: qs.stringify(queryData)

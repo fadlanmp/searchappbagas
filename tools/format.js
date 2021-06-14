@@ -6,6 +6,6 @@ module.exports = fn = data => {
         "harga": data.harga ? data.harga.value : '',
         "urlweb": data.urlweb ? data.urlweb.value : '',
         "urlFoto": data.urlFoto ? data.urlFoto.value : '',
-        "platfor": data.platformName ? data.platformName.value : '',
+        "platform": data.platformName ? data.platformName.value : '',
     }
 }

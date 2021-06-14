@@ -78,8 +78,8 @@ const Format = require('../tools/format');
             }
             apps = apps.bindings.map((aplikasi) => Format(aplikasi));
             res.status(200).json({
-                data:aplikasi[0],
-                message: aplikasi.length ? 'Data aplikasi berhasil didapatkan' : 'Tidak ada hasil dari pencarian'
+                data:apps,
+                message: apps.length ? 'Data aplikasi berhasil didapatkan' : 'Tidak ada hasil dari pencarian'
             })
         }catch(err){
             res.status(400).json(err);
